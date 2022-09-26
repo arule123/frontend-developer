@@ -3,4 +3,5 @@ BELAJAR WEB PRO
 *ES6
 *framework
 -interview
+<<<<<<< admin-2
 belajar css3
